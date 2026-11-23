@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+ANGOON+COMMUNITY+ASSOCIATION",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+ANGOON+COMMUNITY+ASSOCIATION",
+  "title": "Federal Register - AK ANGOON COMMUNITY ASSOCIATION",
+  "fetched_at": "2026-11-23T15:55:42.028790Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 252819,
+  "sha256": "528b9b6bf86ff3129d13aa0d501c0919b427be5806597a45dfc5a5efd49e2428",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
